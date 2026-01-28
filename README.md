@@ -1,2 +1,2 @@
-# momeneh.github.io
-repo for running online resume file
+# My resume and what I do
+This repository is  a few information about me and who I am and my experiences.
